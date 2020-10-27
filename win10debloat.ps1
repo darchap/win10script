@@ -49,7 +49,7 @@ $tweaks = @(
 	"DisableWebSearch", # "EnableWebSearch",
 	"DisableAppSuggestions", # "EnableAppSuggestions",
 	"DisableActivityHistory", # "EnableActivityHistory",
-	"DisableBackgroundApps", # "EnableBackgroundApps",
+	#"DisableBackgroundApps", # "EnableBackgroundApps",
 	"DisableLocationTracking", # "EnableLocationTracking",
 	"DisableMapUpdates", # "EnableMapUpdates",
 	"DisableFeedback", # "EnableFeedback",
